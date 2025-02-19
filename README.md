@@ -1,1 +1,2 @@
 # HomieHideoutData
+![PhotoTemplate](./PhotoTemplate.png)
